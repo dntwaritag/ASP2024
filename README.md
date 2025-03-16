@@ -1,6 +1,6 @@
 This is my reference codes
 # Customer Spending Prediction Project  
-**Group Number: Peer-16  
+**Group Number:** Peer-16  
 **Date:** March 16, 2025  
 
 ---
@@ -52,8 +52,7 @@ This report details the preprocessing and machine learning pipeline developed to
 |---------------|--------------------------------------------|  
 | Denys Ntwaritaganzwa    | Data loading, cleaning, imputation and report writing |  
 | Aubin Ntwali   | Dataset merging conflict resolution and ML modeling  |  
-| [Member 3]    | Feature engineering and quality checks    |  
-| [Member 4]    | ML modeling and             |  
+| Anissa Ouedraogo   | Feature engineering and quality checks    |  
 
 ---
 
